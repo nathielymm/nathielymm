@@ -9,10 +9,6 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
-
-<p align="left">
   💌 I’m always open to new connections, collaborations, and challenging opportunities! ⤵️
 </p>
 
