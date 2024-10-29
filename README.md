@@ -1,7 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  👋 Hello! I'm Nathiely – but you can call me Nath! I'm a passionate software engineer with over 5 years of experience building and architecting full-stack applications. My expertise spans across various technologies, including React, React Native, JavaScript, Ruby on Rails, Java, and TypeScript.
+  👋 Hello! I'm Nathiely – but you can call me Nath! 
+</p>
+
+<p align="left">
+I'm a passionate software engineer with over 5 years of experience building and architecting full-stack applications. My expertise spans across various technologies, including React, React Native, JavaScript, Ruby on Rails, Java, and TypeScript.
 </p>
 
 <p align="left">
