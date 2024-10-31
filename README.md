@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
- 🔹 Current Focus: Focusing on code optimization at Ribon, enhancing performance, applying agile practices, and ensuring robust, maintainable solutions for scalable applications.
+ 🔹 Current Focus: Focusing on code optimization at Ribon, enhancing performance, and ensuring robust, maintainable solutions for scalable applications.
 </p>
 
 <p align="left">
