@@ -5,7 +5,11 @@
 </p>
 
 <p align="left">
-I'm a dedicated software engineer with experience building and architecting full-stack applications. My expertise covers a range of technologies, including React, React Native, JavaScript, Ruby on Rails, Java, and TypeScript.
+ I'm a software engineer with experience building and architecting full-stack applications. 
+</p>
+
+<p aling="left">
+ 🛠️ React, React Native, JavaScript, Ruby on Rails, Java, and TypeScript.
 </p>
 
 <p align="left">
