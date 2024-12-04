@@ -8,14 +8,6 @@
  I'm a software engineer with experience building and architecting full-stack applications. 
 </p>
 
-<p aling="left">
- 🛠️ React, React Native, JavaScript, Ruby on Rails, Java, and TypeScript.
-</p>
-
-<p align="left">
- 🔹 Current Focus: Focusing on code optimization at Ribon, enhancing performance, and ensuring robust, maintainable solutions for scalable applications.
-</p>
-
 <p align="left">
   💌 I’m always open to new connections, collaborations, and challenging opportunities! ⤵️
 </p>
